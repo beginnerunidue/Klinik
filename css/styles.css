@@ -132,6 +132,12 @@ p {
   margin: 20px;
 }
 
+.testimonial-image-klein {
+  width: 15%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
 .carousel-item {
   align-items: center;
 }
